@@ -1,4 +1,5 @@
 # GoLang Web Template
+is a starting blank web template for GoLang Web Projects.
 
 # Resources
 - [TutorialsPoint Go Basics](https://www.tutorialspoint.com/go)
